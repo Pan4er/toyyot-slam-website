@@ -1,0 +1,87 @@
+#img {
+    position: absolute;
+    left: 10.8%;
+    right: 77.73%;
+    top: 0.26%;
+    bottom: 99.42%;
+    background: #FFFFFF;
+    font-family: Franklin Gothic Heavy;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+#main {
+    position: absolute;
+    left: 0%;
+    right: 63.76%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Franklin Gothic Heavy;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+#dropdown {
+    position: absolute;
+    left: 21.5%;
+    right: 42.26%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Franklin Gothic Heavy;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#team {
+    position: absolute;
+    left: 42.19%;
+    right: 21.57%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Franklin Gothic Heavy;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#cont {
+    position: absolute;
+    left: 63.08%;
+    right: 0%;
+    top: 10.11%;
+    bottom: 0%;
+    font-family: Franklin Gothic Heavy;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #FFFFFF;
+}

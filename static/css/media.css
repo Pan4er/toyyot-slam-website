@@ -1,0 +1,48 @@
+@media all and (min-width: 768px) and (max-width: 991px) {
+    #headerText {
+        font-size: 16px!important;
+    }
+    #AliCard {
+        width: 16rem!important;
+        left: 44%;
+        top: 10%;
+        font-size: 12px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    #diz {
+        font-size: 14px!important;
+        line-height: 25px!important;
+    }
+    #Sata {
+        font-size: 14px!important;
+        line-height: 25px!important;
+    }
+    #headerText {
+        font-size: 16px!important;
+        padding-left: 10px!important;
+        padding-right: 0px!important;
+    }
+    #AliCard {
+        width: 16rem!important;
+        left: 24%;
+        top: 10%;
+        font-size: 12px;
+    }
+    #GoshaCard {
+        width: 16rem!important;
+        left: 5%;
+        font-size: 12px;
+    }
+    .btn {
+        height: inherit;
+        font-size: medium;
+    }
+    .musicA {
+        font-size: 16px;
+    }
+    #footerCol1 {
+        width: 100%!important;
+    }
+}
