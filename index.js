@@ -34,7 +34,7 @@ app.post("/", urlEncodedParser, function(req, res) {
 
 app.post("/static/makeOrder", urlEncodedParser, function(req, res) {
     var message = {
-        to: ["tema_921_work@mail.ru"],
+        to: ["tema_921_work@mail.ru", "8etage.beats@gmail.com", "gameacc4her@gmail.com", "georgij.mun@gmail.com", "tanatar2000@gmail.com"],
         subject: "Новый заказ от : " + req.body.orderName + "\r\n Номер телефона : " + req.body.orderCont,
         text: "Заказ на " + req.body.orderSelect
     }
